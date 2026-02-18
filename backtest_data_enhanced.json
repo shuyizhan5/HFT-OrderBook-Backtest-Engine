@@ -1,0 +1,912 @@
+{
+  "total_trades": 3132,
+  "trades": [
+    {
+      "timestamp": 1704067201.0868356,
+      "volume": 177.0,
+      "price": 10.03,
+      "value": 1775.31,
+      "taker_fee": 0.8877,
+      "maker_rebate": 0.3551,
+      "net_value": 1774.7774
+    },
+    {
+      "timestamp": 1704067202.1258695,
+      "volume": 154.0,
+      "price": 10.04,
+      "value": 1546.16,
+      "taker_fee": 0.7731,
+      "maker_rebate": 0.3092,
+      "net_value": 1545.6961
+    },
+    {
+      "timestamp": 1704067202.1258695,
+      "volume": 60.0,
+      "price": 10.04,
+      "value": 602.4,
+      "taker_fee": 0.3012,
+      "maker_rebate": 0.1205,
+      "net_value": 602.2193
+    },
+    {
+      "timestamp": 1704067202.6850896,
+      "volume": 440.0,
+      "price": 10.04,
+      "value": 4417.6,
+      "taker_fee": 2.2088,
+      "maker_rebate": 0.8835,
+      "net_value": 4416.2747
+    },
+    {
+      "timestamp": 1704067202.7399173,
+      "volume": 3.0,
+      "price": 10.03,
+      "value": 30.09,
+      "taker_fee": 0.015,
+      "maker_rebate": 0.006,
+      "net_value": 30.081
+    },
+    {
+      "timestamp": 1704067203.730858,
+      "volume": 342.0,
+      "price": 10.04,
+      "value": 3433.68,
+      "taker_fee": 1.7168,
+      "maker_rebate": 0.6867,
+      "net_value": 3432.6499
+    },
+    {
+      "timestamp": 1704067203.8798776,
+      "volume": 61.0,
+      "price": 10.04,
+      "value": 612.44,
+      "taker_fee": 0.3062,
+      "maker_rebate": 0.1225,
+      "net_value": 612.2563
+    },
+    {
+      "timestamp": 1704067203.8798776,
+      "volume": 186.0,
+      "price": 10.04,
+      "value": 1867.44,
+      "taker_fee": 0.9337,
+      "maker_rebate": 0.3735,
+      "net_value": 1866.8798
+    },
+    {
+      "timestamp": 1704067203.9373264,
+      "volume": 140.0,
+      "price": 10.04,
+      "value": 1405.6,
+      "taker_fee": 0.7028,
+      "maker_rebate": 0.2811,
+      "net_value": 1405.1783
+    },
+    {
+      "timestamp": 1704067204.7232175,
+      "volume": 166.0,
+      "price": 10.04,
+      "value": 1666.64,
+      "taker_fee": 0.8333,
+      "maker_rebate": 0.3333,
+      "net_value": 1666.14
+    },
+    {
+      "timestamp": 1704067204.9623113,
+      "volume": 2.0,
+      "price": 10.04,
+      "value": 20.08,
+      "taker_fee": 0.01,
+      "maker_rebate": 0.004,
+      "net_value": 20.074
+    },
+    {
+      "timestamp": 1704067204.9623113,
+      "volume": 295.0,
+      "price": 10.04,
+      "value": 2961.8,
+      "taker_fee": 1.4809,
+      "maker_rebate": 0.5924,
+      "net_value": 2960.9115
+    },
+    {
+      "timestamp": 1704067205.3717766,
+      "volume": 53.0,
+      "price": 10.04,
+      "value": 532.12,
+      "taker_fee": 0.2661,
+      "maker_rebate": 0.1064,
+      "net_value": 531.9603
+    },
+    {
+      "timestamp": 1704067205.3717766,
+      "volume": 273.0,
+      "price": 9.98,
+      "value": 2724.54,
+      "taker_fee": 1.3623,
+      "maker_rebate": 0.5449,
+      "net_value": 2723.7226
+    },
+    {
+      "timestamp": 1704067209.267741,
+      "volume": 117.0,
+      "price": 9.96,
+      "value": 1165.32,
+      "taker_fee": 0.5827,
+      "maker_rebate": 0.2331,
+      "net_value": 1164.9704
+    },
+    {
+      "timestamp": 1704067209.267741,
+      "volume": 138.0,
+      "price": 9.97,
+      "value": 1375.86,
+      "taker_fee": 0.6879,
+      "maker_rebate": 0.2752,
+      "net_value": 1375.4473
+    },
+    {
+      "timestamp": 1704067209.5777164,
+      "volume": 303.0,
+      "price": 9.97,
+      "value": 3020.91,
+      "taker_fee": 1.5105,
+      "maker_rebate": 0.6042,
+      "net_value": 3020.0037
+    },
+    {
+      "timestamp": 1704067209.7662475,
+      "volume": 19.0,
+      "price": 9.97,
+      "value": 189.43,
+      "taker_fee": 0.0947,
+      "maker_rebate": 0.0379,
+      "net_value": 189.3732
+    },
+    {
+      "timestamp": 1704067209.7662475,
+      "volume": 103.0,
+      "price": 9.97,
+      "value": 1026.91,
+      "taker_fee": 0.5135,
+      "maker_rebate": 0.2054,
+      "net_value": 1026.6019
+    },
+    {
+      "timestamp": 1704067211.043724,
+      "volume": 145.0,
+      "price": 9.97,
+      "value": 1445.65,
+      "taker_fee": 0.7228,
+      "maker_rebate": 0.2891,
+      "net_value": 1445.2163
+    },
+    {
+      "timestamp": 1704067212.3861907,
+      "volume": 9.0,
+      "price": 9.97,
+      "value": 89.73,
+      "taker_fee": 0.0449,
+      "maker_rebate": 0.0179,
+      "net_value": 89.703
+    },
+    {
+      "timestamp": 1704067212.3861907,
+      "volume": 147.0,
+      "price": 10.0,
+      "value": 1470.0,
+      "taker_fee": 0.735,
+      "maker_rebate": 0.294,
+      "net_value": 1469.559
+    },
+    {
+      "timestamp": 1704067213.6497169,
+      "volume": 138.0,
+      "price": 9.97,
+      "value": 1375.86,
+      "taker_fee": 0.6879,
+      "maker_rebate": 0.2752,
+      "net_value": 1375.4473
+    },
+    {
+      "timestamp": 1704067213.8374765,
+      "volume": 303.0,
+      "price": 9.97,
+      "value": 3020.91,
+      "taker_fee": 1.5105,
+      "maker_rebate": 0.6042,
+      "net_value": 3020.0037
+    },
+    {
+      "timestamp": 1704067213.8374765,
+      "volume": 42.0,
+      "price": 9.97,
+      "value": 418.74,
+      "taker_fee": 0.2094,
+      "maker_rebate": 0.0837,
+      "net_value": 418.6143
+    },
+    {
+      "timestamp": 1704067213.902811,
+      "volume": 225.0,
+      "price": 9.97,
+      "value": 2243.25,
+      "taker_fee": 1.1216,
+      "maker_rebate": 0.4487,
+      "net_value": 2242.5771
+    },
+    {
+      "timestamp": 1704067214.0272138,
+      "volume": 106.0,
+      "price": 9.97,
+      "value": 1056.82,
+      "taker_fee": 0.5284,
+      "maker_rebate": 0.2114,
+      "net_value": 1056.503
+    },
+    {
+      "timestamp": 1704067214.0272138,
+      "volume": 210.0,
+      "price": 10.0,
+      "value": 2100.0,
+      "taker_fee": 1.05,
+      "maker_rebate": 0.42,
+      "net_value": 2099.37
+    },
+    {
+      "timestamp": 1704067215.1658165,
+      "volume": 33.0,
+      "price": 10.0,
+      "value": 330.0,
+      "taker_fee": 0.165,
+      "maker_rebate": 0.066,
+      "net_value": 329.901
+    },
+    {
+      "timestamp": 1704067215.1658165,
+      "volume": 164.0,
+      "price": 10.02,
+      "value": 1643.28,
+      "taker_fee": 0.8216,
+      "maker_rebate": 0.3287,
+      "net_value": 1642.7871
+    },
+    {
+      "timestamp": 1704067215.1658165,
+      "volume": 102.0,
+      "price": 10.02,
+      "value": 1022.04,
+      "taker_fee": 0.511,
+      "maker_rebate": 0.2044,
+      "net_value": 1021.7334
+    },
+    {
+      "timestamp": 1704067215.1658165,
+      "volume": 168.0,
+      "price": 10.03,
+      "value": 1685.04,
+      "taker_fee": 0.8425,
+      "maker_rebate": 0.337,
+      "net_value": 1684.5345
+    },
+    {
+      "timestamp": 1704067216.9919574,
+      "volume": 114.0,
+      "price": 10.03,
+      "value": 1143.42,
+      "taker_fee": 0.5717,
+      "maker_rebate": 0.2287,
+      "net_value": 1143.077
+    },
+    {
+      "timestamp": 1704067217.3371882,
+      "volume": 206.0,
+      "price": 10.04,
+      "value": 2068.24,
+      "taker_fee": 1.0341,
+      "maker_rebate": 0.4136,
+      "net_value": 2067.6195
+    },
+    {
+      "timestamp": 1704067217.5409534,
+      "volume": 136.0,
+      "price": 10.04,
+      "value": 1365.44,
+      "taker_fee": 0.6827,
+      "maker_rebate": 0.2731,
+      "net_value": 1365.0304
+    },
+    {
+      "timestamp": 1704067217.5409534,
+      "volume": 142.0,
+      "price": 9.99,
+      "value": 1418.58,
+      "taker_fee": 0.7093,
+      "maker_rebate": 0.2837,
+      "net_value": 1418.1544
+    },
+    {
+      "timestamp": 1704067218.2055628,
+      "volume": 285.0,
+      "price": 10.04,
+      "value": 2861.4,
+      "taker_fee": 1.4307,
+      "maker_rebate": 0.5723,
+      "net_value": 2860.5416
+    },
+    {
+      "timestamp": 1704067218.3120914,
+      "volume": 110.0,
+      "price": 9.99,
+      "value": 1098.9,
+      "taker_fee": 0.5495,
+      "maker_rebate": 0.2198,
+      "net_value": 1098.5703
+    },
+    {
+      "timestamp": 1704067219.0356295,
+      "volume": 81.0,
+      "price": 9.99,
+      "value": 809.19,
+      "taker_fee": 0.4046,
+      "maker_rebate": 0.1618,
+      "net_value": 808.9472
+    },
+    {
+      "timestamp": 1704067219.344352,
+      "volume": 115.0,
+      "price": 9.97,
+      "value": 1146.55,
+      "taker_fee": 0.5733,
+      "maker_rebate": 0.2293,
+      "net_value": 1146.206
+    },
+    {
+      "timestamp": 1704067219.7814784,
+      "volume": 265.0,
+      "price": 9.97,
+      "value": 2642.05,
+      "taker_fee": 1.321,
+      "maker_rebate": 0.5284,
+      "net_value": 2641.2574
+    },
+    {
+      "timestamp": 1704067219.834673,
+      "volume": 83.0,
+      "price": 10.05,
+      "value": 834.15,
+      "taker_fee": 0.4171,
+      "maker_rebate": 0.1668,
+      "net_value": 833.8997
+    },
+    {
+      "timestamp": 1704067221.5283751,
+      "volume": 203.0,
+      "price": 9.97,
+      "value": 2023.91,
+      "taker_fee": 1.012,
+      "maker_rebate": 0.4048,
+      "net_value": 2023.3028
+    },
+    {
+      "timestamp": 1704067221.5283751,
+      "volume": 132.0,
+      "price": 9.97,
+      "value": 1316.04,
+      "taker_fee": 0.658,
+      "maker_rebate": 0.2632,
+      "net_value": 1315.6452
+    },
+    {
+      "timestamp": 1704067221.6375177,
+      "volume": 102.0,
+      "price": 9.97,
+      "value": 1016.94,
+      "taker_fee": 0.5085,
+      "maker_rebate": 0.2034,
+      "net_value": 1016.6349
+    },
+    {
+      "timestamp": 1704067222.0074062,
+      "volume": 219.0,
+      "price": 10.05,
+      "value": 2200.95,
+      "taker_fee": 1.1005,
+      "maker_rebate": 0.4402,
+      "net_value": 2200.2897
+    },
+    {
+      "timestamp": 1704067222.0074062,
+      "volume": 127.0,
+      "price": 9.95,
+      "value": 1263.65,
+      "taker_fee": 0.6318,
+      "maker_rebate": 0.2527,
+      "net_value": 1263.2709
+    },
+    {
+      "timestamp": 1704067222.602651,
+      "volume": 64.0,
+      "price": 9.95,
+      "value": 636.8,
+      "taker_fee": 0.3184,
+      "maker_rebate": 0.1274,
+      "net_value": 636.609
+    },
+    {
+      "timestamp": 1704067222.9280388,
+      "volume": 102.0,
+      "price": 9.94,
+      "value": 1013.88,
+      "taker_fee": 0.5069,
+      "maker_rebate": 0.2028,
+      "net_value": 1013.5759
+    },
+    {
+      "timestamp": 1704067222.9280388,
+      "volume": 220.0,
+      "price": 9.97,
+      "value": 2193.4,
+      "taker_fee": 1.0967,
+      "maker_rebate": 0.4387,
+      "net_value": 2192.742
+    },
+    {
+      "timestamp": 1704067223.1246598,
+      "volume": 23.0,
+      "price": 9.97,
+      "value": 229.31,
+      "taker_fee": 0.1147,
+      "maker_rebate": 0.0459,
+      "net_value": 229.2412
+    },
+    {
+      "timestamp": 1704067223.1246598,
+      "volume": 227.0,
+      "price": 10.0,
+      "value": 2270.0,
+      "taker_fee": 1.135,
+      "maker_rebate": 0.454,
+      "net_value": 2269.319
+    },
+    {
+      "timestamp": 1704067224.012741,
+      "volume": 149.0,
+      "price": 10.05,
+      "value": 1497.45,
+      "taker_fee": 0.7487,
+      "maker_rebate": 0.2995,
+      "net_value": 1497.0008
+    },
+    {
+      "timestamp": 1704067224.3283284,
+      "volume": 127.0,
+      "price": 9.98,
+      "value": 1267.46,
+      "taker_fee": 0.6337,
+      "maker_rebate": 0.2535,
+      "net_value": 1267.0798
+    },
+    {
+      "timestamp": 1704067224.7144666,
+      "volume": 59.0,
+      "price": 10.05,
+      "value": 592.95,
+      "taker_fee": 0.2965,
+      "maker_rebate": 0.1186,
+      "net_value": 592.7721
+    },
+    {
+      "timestamp": 1704067224.757195,
+      "volume": 329.0,
+      "price": 10.0,
+      "value": 3290.0,
+      "taker_fee": 1.645,
+      "maker_rebate": 0.658,
+      "net_value": 3289.013
+    },
+    {
+      "timestamp": 1704067226.1961296,
+      "volume": 331.0,
+      "price": 10.05,
+      "value": 3326.55,
+      "taker_fee": 1.6633,
+      "maker_rebate": 0.6653,
+      "net_value": 3325.552
+    },
+    {
+      "timestamp": 1704067226.6358106,
+      "volume": 54.0,
+      "price": 10.05,
+      "value": 542.7,
+      "taker_fee": 0.2714,
+      "maker_rebate": 0.1085,
+      "net_value": 542.5371
+    },
+    {
+      "timestamp": 1704067226.6358106,
+      "volume": 288.0,
+      "price": 10.05,
+      "value": 2894.4,
+      "taker_fee": 1.4472,
+      "maker_rebate": 0.5789,
+      "net_value": 2893.5317
+    },
+    {
+      "timestamp": 1704067227.1413207,
+      "volume": 84.0,
+      "price": 10.05,
+      "value": 844.2,
+      "taker_fee": 0.4221,
+      "maker_rebate": 0.1688,
+      "net_value": 843.9467
+    },
+    {
+      "timestamp": 1704067227.1413207,
+      "volume": 216.0,
+      "price": 10.05,
+      "value": 2170.8,
+      "taker_fee": 1.0854,
+      "maker_rebate": 0.4342,
+      "net_value": 2170.1488
+    },
+    {
+      "timestamp": 1704067227.2162971,
+      "volume": 89.0,
+      "price": 10.05,
+      "value": 894.45,
+      "taker_fee": 0.4472,
+      "maker_rebate": 0.1789,
+      "net_value": 894.1817
+    },
+    {
+      "timestamp": 1704067227.2162971,
+      "volume": 20.0,
+      "price": 10.05,
+      "value": 201.0,
+      "taker_fee": 0.1005,
+      "maker_rebate": 0.0402,
+      "net_value": 200.9397
+    },
+    {
+      "timestamp": 1704067227.4532151,
+      "volume": 338.0,
+      "price": 10.05,
+      "value": 3396.9,
+      "taker_fee": 1.6985,
+      "maker_rebate": 0.6794,
+      "net_value": 3395.8809
+    },
+    {
+      "timestamp": 1704067229.5282402,
+      "volume": 73.0,
+      "price": 10.05,
+      "value": 733.65,
+      "taker_fee": 0.3668,
+      "maker_rebate": 0.1467,
+      "net_value": 733.4299
+    },
+    {
+      "timestamp": 1704067229.5282402,
+      "volume": 391.0,
+      "price": 10.05,
+      "value": 3929.55,
+      "taker_fee": 1.9648,
+      "maker_rebate": 0.7859,
+      "net_value": 3928.3711
+    },
+    {
+      "timestamp": 1704067230.6932364,
+      "volume": 53.0,
+      "price": 10.05,
+      "value": 532.65,
+      "taker_fee": 0.2663,
+      "maker_rebate": 0.1065,
+      "net_value": 532.4902
+    },
+    {
+      "timestamp": 1704067230.6932364,
+      "volume": 112.0,
+      "price": 10.05,
+      "value": 1125.6,
+      "taker_fee": 0.5628,
+      "maker_rebate": 0.2251,
+      "net_value": 1125.2623
+    },
+    {
+      "timestamp": 1704067230.6932364,
+      "volume": 163.0,
+      "price": 10.05,
+      "value": 1638.15,
+      "taker_fee": 0.8191,
+      "maker_rebate": 0.3276,
+      "net_value": 1637.6585
+    },
+    {
+      "timestamp": 1704067230.6932364,
+      "volume": 116.0,
+      "price": 10.05,
+      "value": 1165.8,
+      "taker_fee": 0.5829,
+      "maker_rebate": 0.2332,
+      "net_value": 1165.4503
+    },
+    {
+      "timestamp": 1704067231.3821096,
+      "volume": 96.0,
+      "price": 10.05,
+      "value": 964.8,
+      "taker_fee": 0.4824,
+      "maker_rebate": 0.193,
+      "net_value": 964.5106
+    },
+    {
+      "timestamp": 1704067231.3821096,
+      "volume": 124.0,
+      "price": 10.04,
+      "value": 1244.96,
+      "taker_fee": 0.6225,
+      "maker_rebate": 0.249,
+      "net_value": 1244.5865
+    },
+    {
+      "timestamp": 1704067231.3821096,
+      "volume": 169.0,
+      "price": 10.01,
+      "value": 1691.69,
+      "taker_fee": 0.8458,
+      "maker_rebate": 0.3383,
+      "net_value": 1691.1825
+    },
+    {
+      "timestamp": 1704067231.9090579,
+      "volume": 26.0,
+      "price": 10.01,
+      "value": 260.26,
+      "taker_fee": 0.1301,
+      "maker_rebate": 0.0521,
+      "net_value": 260.182
+    },
+    {
+      "timestamp": 1704067231.9090579,
+      "volume": 191.0,
+      "price": 10.0,
+      "value": 1910.0,
+      "taker_fee": 0.955,
+      "maker_rebate": 0.382,
+      "net_value": 1909.427
+    },
+    {
+      "timestamp": 1704067232.11129,
+      "volume": 38.0,
+      "price": 9.97,
+      "value": 378.86,
+      "taker_fee": 0.1894,
+      "maker_rebate": 0.0758,
+      "net_value": 378.7464
+    },
+    {
+      "timestamp": 1704067232.5218368,
+      "volume": 143.0,
+      "price": 10.05,
+      "value": 1437.15,
+      "taker_fee": 0.7186,
+      "maker_rebate": 0.2874,
+      "net_value": 1436.7188
+    },
+    {
+      "timestamp": 1704067232.5912578,
+      "volume": 97.0,
+      "price": 10.04,
+      "value": 973.88,
+      "taker_fee": 0.4869,
+      "maker_rebate": 0.1948,
+      "net_value": 973.5879
+    },
+    {
+      "timestamp": 1704067233.42303,
+      "volume": 43.0,
+      "price": 10.05,
+      "value": 432.15,
+      "taker_fee": 0.2161,
+      "maker_rebate": 0.0864,
+      "net_value": 432.0203
+    },
+    {
+      "timestamp": 1704067233.42303,
+      "volume": 153.0,
+      "price": 10.05,
+      "value": 1537.65,
+      "taker_fee": 0.7688,
+      "maker_rebate": 0.3075,
+      "net_value": 1537.1887
+    },
+    {
+      "timestamp": 1704067233.42303,
+      "volume": 240.0,
+      "price": 9.96,
+      "value": 2390.4,
+      "taker_fee": 1.1952,
+      "maker_rebate": 0.4781,
+      "net_value": 2389.6829
+    },
+    {
+      "timestamp": 1704067234.8522024,
+      "volume": 168.0,
+      "price": 9.97,
+      "value": 1674.96,
+      "taker_fee": 0.8375,
+      "maker_rebate": 0.335,
+      "net_value": 1674.4575
+    },
+    {
+      "timestamp": 1704067234.8522024,
+      "volume": 164.0,
+      "price": 9.96,
+      "value": 1633.44,
+      "taker_fee": 0.8167,
+      "maker_rebate": 0.3267,
+      "net_value": 1632.95
+    },
+    {
+      "timestamp": 1704067235.4376056,
+      "volume": 174.0,
+      "price": 10.03,
+      "value": 1745.22,
+      "taker_fee": 0.8726,
+      "maker_rebate": 0.349,
+      "net_value": 1744.6964
+    },
+    {
+      "timestamp": 1704067235.7252126,
+      "volume": 304.0,
+      "price": 10.03,
+      "value": 3049.12,
+      "taker_fee": 1.5246,
+      "maker_rebate": 0.6098,
+      "net_value": 3048.2052
+    },
+    {
+      "timestamp": 1704067235.7252126,
+      "volume": 160.0,
+      "price": 10.04,
+      "value": 1606.4,
+      "taker_fee": 0.8032,
+      "maker_rebate": 0.3213,
+      "net_value": 1605.9181
+    },
+    {
+      "timestamp": 1704067235.7808301,
+      "volume": 27.0,
+      "price": 10.04,
+      "value": 271.08,
+      "taker_fee": 0.1355,
+      "maker_rebate": 0.0542,
+      "net_value": 270.9987
+    },
+    {
+      "timestamp": 1704067236.1045911,
+      "volume": 197.0,
+      "price": 10.05,
+      "value": 1979.85,
+      "taker_fee": 0.9899,
+      "maker_rebate": 0.396,
+      "net_value": 1979.2561
+    },
+    {
+      "timestamp": 1704067236.5034928,
+      "volume": 159.0,
+      "price": 10.05,
+      "value": 1597.95,
+      "taker_fee": 0.799,
+      "maker_rebate": 0.3196,
+      "net_value": 1597.4706
+    },
+    {
+      "timestamp": 1704067236.5034928,
+      "volume": 39.0,
+      "price": 10.05,
+      "value": 391.95,
+      "taker_fee": 0.196,
+      "maker_rebate": 0.0784,
+      "net_value": 391.8324
+    },
+    {
+      "timestamp": 1704067236.6061866,
+      "volume": 159.0,
+      "price": 10.05,
+      "value": 1597.95,
+      "taker_fee": 0.799,
+      "maker_rebate": 0.3196,
+      "net_value": 1597.4706
+    },
+    {
+      "timestamp": 1704067237.7462587,
+      "volume": 345.0,
+      "price": 10.05,
+      "value": 3467.25,
+      "taker_fee": 1.7336,
+      "maker_rebate": 0.6935,
+      "net_value": 3466.2099
+    },
+    {
+      "timestamp": 1704067238.3538287,
+      "volume": 273.0,
+      "price": 10.0,
+      "value": 2730.0,
+      "taker_fee": 1.365,
+      "maker_rebate": 0.546,
+      "net_value": 2729.181
+    },
+    {
+      "timestamp": 1704067238.3538287,
+      "volume": 48.0,
+      "price": 9.98,
+      "value": 479.04,
+      "taker_fee": 0.2395,
+      "maker_rebate": 0.0958,
+      "net_value": 478.8963
+    },
+    {
+      "timestamp": 1704067238.4141624,
+      "volume": 162.0,
+      "price": 9.98,
+      "value": 1616.76,
+      "taker_fee": 0.8084,
+      "maker_rebate": 0.3234,
+      "net_value": 1616.275
+    },
+    {
+      "timestamp": 1704067239.3150394,
+      "volume": 100.0,
+      "price": 9.94,
+      "value": 994.0,
+      "taker_fee": 0.497,
+      "maker_rebate": 0.1988,
+      "net_value": 993.7018
+    },
+    {
+      "timestamp": 1704067239.5208468,
+      "volume": 196.0,
+      "price": 9.94,
+      "value": 1948.24,
+      "taker_fee": 0.9741,
+      "maker_rebate": 0.3896,
+      "net_value": 1947.6555
+    },
+    {
+      "timestamp": 1704067240.4513357,
+      "volume": 167.0,
+      "price": 9.94,
+      "value": 1659.98,
+      "taker_fee": 0.83,
+      "maker_rebate": 0.332,
+      "net_value": 1659.482
+    },
+    {
+      "timestamp": 1704067240.4513357,
+      "volume": 52.0,
+      "price": 9.94,
+      "value": 516.88,
+      "taker_fee": 0.2584,
+      "maker_rebate": 0.1034,
+      "net_value": 516.725
+    },
+    {
+      "timestamp": 1704067241.3289154,
+      "volume": 118.0,
+      "price": 9.94,
+      "value": 1172.92,
+      "taker_fee": 0.5865,
+      "maker_rebate": 0.2346,
+      "net_value": 1172.5681
+    }
+  ],
+  "statistics": {
+    "total_volume": 488256.0,
+    "total_value": 4882490.19,
+    "total_taker_fees": 2441.2587,
+    "total_maker_rebates": 976.5014,
+    "net_fees": 1464.7573
+  }
+}
